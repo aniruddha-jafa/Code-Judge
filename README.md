@@ -1,4 +1,4 @@
-# Code Judge web app (CS207AP, Ashoka Univeristy 2017)
+# Code Judge web app - Odin
 Team: Paul Kurian, Barun Parruck, Aniruddha Jaffa
 
 (To-do)
